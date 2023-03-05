@@ -1,4 +1,4 @@
-import { Title, DivforButton, ButtonMy, mySpan } from './Feedback.styled';
+import { Title, DivforButton, ButtonMy } from './Feedback.styled';
 
 export const FeedbackOptions = ({ buttons }) => {
   return (

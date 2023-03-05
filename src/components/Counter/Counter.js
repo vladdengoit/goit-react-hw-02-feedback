@@ -1,13 +1,7 @@
 import { Component } from 'react';
 import { Statistics } from '../Statistics/Statistics';
 import { FeedbackOptions } from '../Feedback/Feedback';
-import {
-  TotalDiv,
-  Title,
-  DivforButton,
-  ButtonMy,
-  Mylist,
-} from './Counter.styled';
+import { TotalDiv } from './Counter.styled';
 // import { Note } from '../Note/Note';
 
 export class Counter extends Component {
